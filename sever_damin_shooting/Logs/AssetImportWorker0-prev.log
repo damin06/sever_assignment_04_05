@@ -1,0 +1,389 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.30f1 (1fb1bf06830e) revision 2077119'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19044) 64bit Professional' Language: 'ko' Physical Memory: 16121 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.30f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/user/Downloads/ShootingGame_Prototype-main
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+58191
+Successfully changed project path to: C:/Users/user/Downloads/ShootingGame_Prototype-main
+C:/Users/user/Downloads/ShootingGame_Prototype-main
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 28.17 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.30f1 (1fb1bf06830e)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.30f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/user/Downloads/ShootingGame_Prototype-main/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3050 Ti Laptop GPU (ID=0x25a0)
+    Vendor:   
+    VRAM:     3990 MB
+    Driver:   30.0.15.1215
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.30f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.30f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.30f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56832
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.30f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.30f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002543 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 26.39 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.517 seconds
+Domain Reload Profiling:
+	ReloadAssembly (518ms)
+		BeginReloadAssembly (54ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (402ms)
+			LoadAssemblies (52ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (155ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (27ms)
+			SetupLoadedEditorAssemblies (135ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (26ms)
+				BeforeProcessingInitializeOnLoad (10ms)
+				ProcessInitializeOnLoadAttributes (71ms)
+				ProcessInitializeOnLoadMethodAttributes (21ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.002231 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.32 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.899 seconds
+Domain Reload Profiling:
+	ReloadAssembly (900ms)
+		BeginReloadAssembly (156ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (3ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (23ms)
+		EndReloadAssembly (672ms)
+			LoadAssemblies (97ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (235ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (32ms)
+			SetupLoadedEditorAssemblies (232ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (64ms)
+				ProcessInitializeOnLoadAttributes (149ms)
+				ProcessInitializeOnLoadMethodAttributes (9ms)
+				AfterProcessingInitializeOnLoad (5ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (12ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 0.35 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1518 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 75.2 MB.
+System memory in use after: 75.3 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 1969.
+Total: 2.105800 ms (FindLiveObjects: 0.090300 ms CreateObjectMapping: 0.029000 ms MarkObjects: 1.919700 ms  DeleteObjects: 0.066200 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/04_Sprites/New Material.mat
+  artifactKey: Guid(b3bd553f089e21d4c943cd0650dae014) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/04_Sprites/New Material.mat using Guid(b3bd553f089e21d4c943cd0650dae014) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b9d081688a70bf31a6586125e90b321') in 0.129238 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 16.728566 seconds.
+  path: Assets/2D Pixel Spaceship - Two Small Ships/Prefabs/fireballs
+  artifactKey: Guid(b795da7dbee6ab54abac2f6e206ccd6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Pixel Spaceship - Two Small Ships/Prefabs/fireballs using Guid(b795da7dbee6ab54abac2f6e206ccd6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ad8b42f6d47bf21510559cc2ffd294e') in 0.007836 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.476540 seconds.
+  path: Assets/2D Pixel Spaceship - Two Small Ships/Prefabs/ships
+  artifactKey: Guid(e9dca78fa186c8d4da2d1385ce36fb4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Pixel Spaceship - Two Small Ships/Prefabs/ships using Guid(e9dca78fa186c8d4da2d1385ce36fb4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '297a1764872e61ee698fd034a4e01076') in 0.007990 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.039034 seconds.
+  path: Assets/2D Pixel Spaceship - Two Small Ships/Prefabs/ships/ship1.prefab
+  artifactKey: Guid(401d8aca9e846254890399f66cd7de66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Pixel Spaceship - Two Small Ships/Prefabs/ships/ship1.prefab using Guid(401d8aca9e846254890399f66cd7de66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f939d7f622e6c7152ed45a4dc9a0deb') in 0.058112 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000691 seconds.
+  path: Assets/2D Pixel Spaceship - Two Small Ships/Prefabs/ships/ship2.prefab
+  artifactKey: Guid(2ce1fb9d977e03b49a1ce0113faf945e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Pixel Spaceship - Two Small Ships/Prefabs/ships/ship2.prefab using Guid(2ce1fb9d977e03b49a1ce0113faf945e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1a13b868ced4fddd7770e71625e0c57') in 0.019101 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.068282 seconds.
+  path: Assets/2D Pixel Spaceship - Two Small Ships/Prefabs/fireballs/fireball-blue-big.prefab
+  artifactKey: Guid(1740469607c5ef74a9dce354e6c48998) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Pixel Spaceship - Two Small Ships/Prefabs/fireballs/fireball-blue-big.prefab using Guid(1740469607c5ef74a9dce354e6c48998) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ef5a0041de840afa84b04d331a8654d') in 0.017837 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000593 seconds.
+  path: Assets/2D Pixel Spaceship - Two Small Ships/Prefabs/fireballs/fireball-red-small.prefab
+  artifactKey: Guid(dc967d03ca7c44c4899380a87d7ddcbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Pixel Spaceship - Two Small Ships/Prefabs/fireballs/fireball-red-small.prefab using Guid(dc967d03ca7c44c4899380a87d7ddcbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24e16f02d096f825e44c7befbc18c773') in 0.016187 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000477 seconds.
+  path: Assets/2D Pixel Spaceship - Two Small Ships/Prefabs/fireballs/fireball-red-tail-big.prefab
+  artifactKey: Guid(48e06088b7e195f40898a828bd389ec3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Pixel Spaceship - Two Small Ships/Prefabs/fireballs/fireball-red-tail-big.prefab using Guid(48e06088b7e195f40898a828bd389ec3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3733e73d8fbe171bde4e034f3100dd1a') in 0.020997 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000607 seconds.
+  path: Assets/2D Pixel Spaceship - Two Small Ships/Prefabs/fireballs/fireball-blue-small.prefab
+  artifactKey: Guid(508a3a333f10ebc4aa37b5c8b3aa27e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Pixel Spaceship - Two Small Ships/Prefabs/fireballs/fireball-blue-small.prefab using Guid(508a3a333f10ebc4aa37b5c8b3aa27e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1afd1f8e53eebeb5a38f82490803184e') in 0.015075 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000521 seconds.
+  path: Assets/2D Pixel Spaceship - Two Small Ships/Prefabs/fireballs/fireball-red-med.prefab
+  artifactKey: Guid(eb37e015fa916944c81e05758e6ce0b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Pixel Spaceship - Two Small Ships/Prefabs/fireballs/fireball-red-med.prefab using Guid(eb37e015fa916944c81e05758e6ce0b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c484036baa6e2650afdbade4bb69109c') in 0.016015 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000711 seconds.
+  path: Assets/2D Pixel Spaceship - Two Small Ships/Prefabs/fireballs/fireball-red-tail-small.prefab
+  artifactKey: Guid(a7c8b6f2a4acbd34aa0ea5ae6c7401fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Pixel Spaceship - Two Small Ships/Prefabs/fireballs/fireball-red-tail-small.prefab using Guid(a7c8b6f2a4acbd34aa0ea5ae6c7401fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd52261f748463f8a43c01bbe3e97406') in 0.014360 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000471 seconds.
+  path: Assets/2D Pixel Spaceship - Two Small Ships/Prefabs/fireballs/fireball-red-tail-med.prefab
+  artifactKey: Guid(7949930a4be82f14497a46200e300772) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Pixel Spaceship - Two Small Ships/Prefabs/fireballs/fireball-red-tail-med.prefab using Guid(7949930a4be82f14497a46200e300772) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b53523aa8293f10eb29ea1c5e66acaa7') in 0.015285 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000611 seconds.
+  path: Assets/2D Pixel Spaceship - Two Small Ships/Prefabs/fireballs/fireball-blue-med.prefab
+  artifactKey: Guid(15e42fc786cf33d4e8e26c0543aa563b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Pixel Spaceship - Two Small Ships/Prefabs/fireballs/fireball-blue-med.prefab using Guid(15e42fc786cf33d4e8e26c0543aa563b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29911770468f6f082d133147fa7a8e0c') in 0.016450 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000485 seconds.
+  path: Assets/2D Pixel Spaceship - Two Small Ships/Prefabs/fireballs/fireball-red-big.prefab
+  artifactKey: Guid(0b0c27137eb4d504096874b80ace66bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Pixel Spaceship - Two Small Ships/Prefabs/fireballs/fireball-red-big.prefab using Guid(0b0c27137eb4d504096874b80ace66bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7058dc3fee4a85519dc7667c77e10090') in 0.014682 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000483 seconds.
+  path: Assets/2D Pixel Spaceship - Two Small Ships/Prefabs/fireballs/fireball-blue-tail-small.prefab
+  artifactKey: Guid(80936324c84277d498ccd724f0e55e94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Pixel Spaceship - Two Small Ships/Prefabs/fireballs/fireball-blue-tail-small.prefab using Guid(80936324c84277d498ccd724f0e55e94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ec2de67415a85859890085dba910785') in 0.019244 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000845 seconds.
+  path: Assets/2D Pixel Spaceship - Two Small Ships/Prefabs/fireballs/fireball-blue-tail-big.prefab
+  artifactKey: Guid(d2f2f92c494bd1c41970791d8041c000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Pixel Spaceship - Two Small Ships/Prefabs/fireballs/fireball-blue-tail-big.prefab using Guid(d2f2f92c494bd1c41970791d8041c000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13ff87eb5da91b0db5c343467f3a1158') in 0.025715 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000465 seconds.
+  path: Assets/2D Pixel Spaceship - Two Small Ships/Prefabs/fireballs/fireball-blue-tail-med.prefab
+  artifactKey: Guid(ab6891f5e3e61c54fb1b5a692cee6a19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Pixel Spaceship - Two Small Ships/Prefabs/fireballs/fireball-blue-tail-med.prefab using Guid(ab6891f5e3e61c54fb1b5a692cee6a19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9760e8cab6979247cd5f1350191379f0') in 0.036169 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 233.079161 seconds.
+  path: Assets/02_Scripts/Enemy.cs
+  artifactKey: Guid(28391ad1a2d7bc148b5c791ff4b53f1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/02_Scripts/Enemy.cs using Guid(28391ad1a2d7bc148b5c791ff4b53f1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '950979cf46f054870a37909ea928f0df') in 0.030007 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 37.133592 seconds.
+  path: Assets/2D Pixel Spaceship - Two Small Ships/Sprites/sprites.png
+  artifactKey: Guid(8aeb9e233fbb8f14db39770841b78b94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Pixel Spaceship - Two Small Ships/Sprites/sprites.png using Guid(8aeb9e233fbb8f14db39770841b78b94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7deaf77293a3efc832437796a142ce46') in 0.148124 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 34.096026 seconds.
+  path: Assets/StarfieldMaterials/README
+  artifactKey: Guid(a872d0ec0e52c0d418e3345bee6ffddb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarfieldMaterials/README using Guid(a872d0ec0e52c0d418e3345bee6ffddb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8cbdf74956f9ae933ecb1383738652c1') in 0.009575 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 8.931073 seconds.
+  path: Assets/2D Pixel Spaceship - Two Small Ships/Prefabs
+  artifactKey: Guid(c3ec34962ccffd6409fcb261a9f12c8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Pixel Spaceship - Two Small Ships/Prefabs using Guid(c3ec34962ccffd6409fcb261a9f12c8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'daaee9954bcb7356e798fdfe41b9c3e2') in 0.007837 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003399 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.31 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.896 seconds
+Domain Reload Profiling:
+	ReloadAssembly (896ms)
+		BeginReloadAssembly (125ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (9ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (49ms)
+		EndReloadAssembly (713ms)
+			LoadAssemblies (85ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (218ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (35ms)
+			SetupLoadedEditorAssemblies (285ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (8ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (82ms)
+				ProcessInitializeOnLoadAttributes (178ms)
+				ProcessInitializeOnLoadMethodAttributes (9ms)
+				AfterProcessingInitializeOnLoad (7ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (5ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.38 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1512 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 78.5 MB.
+System memory in use after: 78.6 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 2037.
+Total: 2.251000 ms (FindLiveObjects: 0.097700 ms CreateObjectMapping: 0.025700 ms MarkObjects: 2.111100 ms  DeleteObjects: 0.015800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 170.398058 seconds.
+  path: Assets/03_Prefabs/Bullet.prefab
+  artifactKey: Guid(fae4abae1c4ea8741a4edf6d3444f6ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/03_Prefabs/Bullet.prefab using Guid(fae4abae1c4ea8741a4edf6d3444f6ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e446b369cc184ee92c2456f98d9b31d') in 0.051337 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 120.623998 seconds.
+  path: Assets/03_Prefabs/Enemy.prefab
+  artifactKey: Guid(2d0523c4ea73b7f4fabf0f03810d98e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/03_Prefabs/Enemy.prefab using Guid(2d0523c4ea73b7f4fabf0f03810d98e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b68442e9e983c4a1242b6ecc1673aef9') in 0.023025 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002369 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.36 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.906 seconds
+Domain Reload Profiling:
+	ReloadAssembly (907ms)
+		BeginReloadAssembly (112ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (7ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (37ms)
+		EndReloadAssembly (735ms)
+			LoadAssemblies (86ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (247ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (56ms)
+			SetupLoadedEditorAssemblies (252ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (77ms)
+				ProcessInitializeOnLoadAttributes (158ms)
+				ProcessInitializeOnLoadMethodAttributes (6ms)
+				AfterProcessingInitializeOnLoad (5ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (10ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.38 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1512 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 78.5 MB.
+System memory in use after: 78.7 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 2041.
+Total: 2.164400 ms (FindLiveObjects: 0.094800 ms CreateObjectMapping: 0.025200 ms MarkObjects: 2.028400 ms  DeleteObjects: 0.015300 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
